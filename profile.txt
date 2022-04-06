@@ -38,7 +38,7 @@
     <ul>
         
         <li>C-Language</li>
-        <li>Getting Trained in HTML,CSS,JAVASCRIPT</li>
+        <li>HTML,CSS,JAVASCRIPT</li>
     
     </ul>
     
